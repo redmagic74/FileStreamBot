@@ -1,4 +1,4 @@
-# © @AvishkarPatil [ Telegram ]
+# © @Inevitable_74 [ Telegram ]
 
 from WebStreamer.bot import StreamBot
 from WebStreamer.vars import Var
